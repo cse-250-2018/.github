@@ -5,10 +5,10 @@ SL|Task|Deadline|Submission Platform
 -:|----|:------:|:-----------------:
 1|Curriculum Vitae| January 24, 2021|Google Classroom
 2|Team Formation with Project Idea| ~~February 01, 2021~~ <br> <strong><font color="red">February 03, 2021</font> </strong>|Google Classroom
-3|Project Finalization| February 03, 2021| Online
-4|Team & Repo Creation in GitHub| February 04, 2021| GitHub & Online
+3|Project Finalization| ~~February 03, 2021~~ <br> <strong><font color="red">February 07, 2021</font></strong>| Online
+4|Team & Repo Creation in GitHub| ~~February 04, 2021~~ <strong><font color="red">February 07, 2021</font></strong>| GitHub & Online
 5|Submission of Project Plan (what would be submitted on milestones) & Timeline| February 12, 2021| GitHub Repository
-9|Report on Learning Pre-requisities| February 15, 2021| Google Classroom
+9|Report on Learning Pre-requisities | February 15, 2021| Google Classroom
 10|Final Presentation| May 24 & 25, 2021| Online
 
 Milestones
