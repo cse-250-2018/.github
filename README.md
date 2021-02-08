@@ -66,7 +66,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
 35|Goodwill|2017331094|Mahmodul Hasan Sakib||
 36|Developer_Duo|2018331029|Ishrat Jahan|2018331011|Amir Hamza
 37|Team Mita|2018331078|Md Hasibul Islam Shanto|2018331084|S M Al Hasib
-38|team ?rates|2018331083|Mushfiqur Rahman|2018331123|Mahbubul Hasan
+38|team πrates|2018331083|Mushfiqur Rahman|2018331123|Mahbubul Hasan
 39|Ninja Developers |2017331075|Md. Mustaqur Rahman|2017331088|Roman Raihan
 40|Explorer|2018331098|Mahdi Murshed Patwari ||
 41|Keyboard Warrior|2018331084|MD. Toufiqul Islam Fahim|2018331120|Abdul Wadud Shakib
@@ -75,6 +75,15 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
 44|OldAcquaintances|2017331010|M. Ebrahim Sazin|2017331013|Navid Ishriyaq Amin
 45|TEAM 00|2018331070|NURUN ISLAM NILOY||
 46|Yellow Flash|2018331036|Nasrullah Sami|2018331064|Mahir Mosleh
+47|CB|2017331084|jamil mahmood|2017331048|Ezaz Ahmed Miraz
+48|Team JOJO|2018331060|Md. Tangid Khan|2018331124|Fazla Rabby Rady
+49|Team_bibliophile|2018331018|Tanusree Saha|2018331105|Mala Jhora
+50|Falcons|2017331076|Pritam Das|2017331068|Zakir Hossain
+51|Headless Monstar|2018331110|Abu Anash Siddiki Badhon|2018331114|Tanvir Mahmud
+52|Tehetetlen|2018331106|Fatima Nuzhat|2018331008|Samia Preity
+53|Team আইলসা|2018331090|Ahad Mahjabin Jannat|2018331122|Fahmida Akter
+54|Betelgeuse|2018331061|Sujoy Kumar Ray|2018331041|Aahsanul Azim
+55|Ganymede|2018331069|Oishik Biswas|2017331035|MD.AZHARUL KARIM CHOWDHURY ANIK
 
 
 Supervisors
