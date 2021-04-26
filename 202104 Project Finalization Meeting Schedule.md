@@ -11,7 +11,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
 6|DeenDev|2018331121|Fahim Ahmed|2018331019|Naimul Islam|12:15 PM|
 7|The Binary Star|2018331003|Shahrab Khan Sami|2018331118|Golam Mostofa Naeem|12:30 PM|
 8|Sneaky Stars|2018331072|Tahsina Bintay Azam|2018331022|Nowshin Alam Owishi|02:00 PM|
-9|Code Clan|2018331088|MD. Rabiul Islam||||02:15 PM|
+9|Code Clan|2018331088|MD. Rabiul Islam|||02:15 PM|
 10|Team Rafi and Dipto |2018331034|Pritam Sarker Dipto|2018331035|Abrar Zahin Rafi|02:30 PM|
 11|Team_Bona_Fide|2018331055|Md. Abdul Kadir|2018331059|Sabiha Jahan Mim|02:45 PM|
 12|The Apostrophe|2018331030|Shrestha Datta|2018331062|MD. SUMON MIAH|03:00 PM|
