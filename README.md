@@ -5,10 +5,10 @@ SL|Task|Deadline|Submission Platform
 -:|----|:------:|:-----------------:
 1|Curriculum Vitae| January 24, 2021|Google Classroom
 2|Team Formation with Project Idea| ~~February 01, 2021~~ <br> <strong><font color="red">February 03, 2021</font> </strong>|Google Classroom
-3|Project Finalization| ~~February 03, 2021~~ <br> <strong><font color="red">March 15, 2021</font></strong>| Online
+3|Project Finalization| ~~February 03, 2021~~ <br> <strong><font color="red">April 27, 2021</font></strong>| Online
 4|Team & Repo Creation in GitHub| ~~February 04, 2021~~ <br> <strong><font color="red">February 09, 2021</font></strong>| GitHub & Online
-5|Submission of Project Plan (what would be submitted on milestones) & Timeline| ~~February 12, 2021~~ <br> <strong><font color="red">March 17, 2021</font></strong>| GitHub Repository
-9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">March 20, 2021</font></strong>| Google Classroom
+5|Submission of Project Plan (what would be submitted on milestones) & Timeline| ~~February 12, 2021~~ <br> <strong><font color="red">May 10, 2021</font></strong>| GitHub Repository
+9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| Google Classroom
 10|Final Presentation| ~~May 24 & 25, 2021~~| Online
 
 Milestones
@@ -84,7 +84,21 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
 53|Team আইলসা|2018331090|Ahad Mahjabin Jannat|2018331122|Fahmida Akter
 54|Betelgeuse|2018331061|Sujoy Kumar Ray|2018331041|Aahsanul Azim
 55|Ganymede|2018331069|Oishik Biswas|2017331035|MD.AZHARUL KARIM CHOWDHURY ANIK
-
+56|Akash|2017331058|Md. Kaef Khan|2017331067|Shah Ashfaqur Rahman
+57|ArektaTeam|2018331002|Mehedi Hasan Jibon|2018331054|Dewan Mahinur Alam
+58|Eccentric buddy|2017331087|Aniruddha Halder|2017331082|Loknath Banik Sagor
+59|SlowMotion|2018331104|Md. Rakib Talukder|2018331080|Md. Merajul Islam Shawn
+60|loser|2018331020|Anwar Hossan|2018331089|MD. Ali Al Reza
+61|
+62|
+63|
+64|
+65|
+66|
+67|
+68|
+69|
+70|
 
 Supervisors
 -----------
