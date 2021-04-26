@@ -89,13 +89,13 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
 58|Eccentric buddy|2017331087|Aniruddha Halder|2017331082|Loknath Banik Sagor
 59|SlowMotion|2018331104|Md. Rakib Talukder|2018331080|Md. Merajul Islam Shawn
 60|loser|2018331020|Anwar Hossan|2018331089|MD. Ali Al Reza
-61|
-62|
-63|
-64|
-65|
-66|
-67|
+61|Team Incompetent|2018331092|Rafiqul Ala Mahid|2018331112|Abdullah Khan
+62|TEAM GRAVITON|2016331025|MD. AZIZUl HAKIM|2016331081|kazi nahian hossain
+63|Team Al-Gurabaa|2017331054|Iqramul Islam|2017331016|Lazu Islam
+64|Amoxicillin|2017331080|Nasif Anwar Khan Pallab||
+65|Detonators|2018331074|Md. Abu Sayem|2018331075|Al Fahad Mollah
+66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan
+67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair
 68|
 69|
 70|
@@ -104,7 +104,7 @@ Supervisors
 -----------
 1. **Enamul Hassan**         
 Assistant Professor     
-Department of Computer Science and Engineering     
+Department of Computer Science and Engineering
 Shahjalal University of Science and Technology       
 [Faculty Profile](https://www.sust.edu/d/cse/faculty-profile-detail/590) and [GitHub Profile](https://github.com/enamcse)
 
