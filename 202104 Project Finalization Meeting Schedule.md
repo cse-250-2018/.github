@@ -1,3 +1,24 @@
+Schedule for April 28, 2021
+===========================
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+17|Team Marshmallow|2018331081|MD.ATAULLHA|2018331045|Soumik Paul Jisun|11:00 AM|
+18|Project CSE-250|2018331057|Jakir Hasan|||11:20 AM|
+19|Revengers|2018331119|Alfeh Sani|2018331077|Omar sultan|11:40 AM|
+20|Storm£Breaker|2018331052|Hrithik Majumdar Shibu|2018331056|Ashraful Islam|12:00 PM|
+21|Team_Cofused|2018331042|MD. Tariful Islam|2018331028|Kazi Md Arif Shahriar|12:20 PM|
+22|Seekers |2018331004|Ameya Debnath|2018331050|Raisa Fairooz|12:40 PM|
+23|mt19937|2018331085|Kawchar Husain|2018331053|Shaikat Hosen|02:00 PM|
+24|VisionaryProvider|2018331082|Md Adith Mollah|||02:20 PM|
+25|Poltergeist|2018331103|Md. Sakil Sazzad Joy|2018331107|Rony Hajong|02:40 PM|
+26|Warriors|2017331090|MD.SHAKIL|2017331100|Ashikur Rahman|03:00 PM|
+27|The Warriors|2018331044|Siam Jahan|2018331048|Suraiya Akter Eva|03:20 PM|
+28|Bazinga!|2018331027|Bipul Karmokar|||03:40 PM|
+29|TEAM-SLACK|2018331014|Md Saiful islam|2018331032|Shafaet ullah|04:00 PM|
+30|Paradox|2018331115|Md Mizbah Uddin Junaed|2018331111|Redwanur Rahman Akanda|04:20 PM|
+
+
 Schedule for April 27, 2021
 ===========================
 

@@ -29,22 +29,21 @@ Project Team Information
 
 Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
 ------:|:--------:|:------:|:----|:------:|:----|:-------------
-1|Team_Solo|2017331027|Al-Masum||
-2|Extractor.zip|2018331037|Kaifa Tabassum|2018331046|Zhalok Rahman
-3|Team  we_apologise|2018331086|Kongka Rani Mozumder|2018331068|Moksedur Rahman Sohan
-4|Project lover |2018331073|Riddhiman Swanan Debnath|2017331104|Imtiaz Kabir Iftu
-5|Team twain|2018331113|Muhit Mahmud|2018331047|Nazmun Nahar Tui
-6|DeenDev|2018331121|Fahim Ahmed|2018331019|Naimul Islam
-7|The Binary Star|2018331003|Shahrab Khan Sami|2018331118|Golam Mostofa Naeem
-8|Sneaky Stars|2018331072|Tahsina Bintay Azam|2018331022|Nowshin Alam Owishi
-9|Code Clan|2018331088|MD. Rabiul Islam||
-10|Team Rafi and Dipto |2018331034|Pritam Sarker Dipto|2018331035|Abrar Zahin Rafi
-11|Team_Bona_Fide|2018331055|Md. Abdul Kadir|2018331059|Sabiha Jahan Mim
-12|The Apostrophe|2018331030|Shrestha Datta|2018331062|MD. SUMON MIAH
-13|Epic_Dreamer|2018331126|Tithi Saha|2018331024|Md. Fuadul Islam
-14|Sustaina|2018331095|Mirza Nihal Baig|2018331093|Nahian Beente Firuj
-15|Drishub|2018331049|Ananna Datta Dristy|2018331051|Tanhab Hossain
-16|Team ARCANE|2018331043|Mahnur Rahman Mahin|2018331117|Ahmed Iftekher Rais
+1|Team_Solo|2017331027|Al-Masum||| Smart Bachelor
+2|Extractor.zip|2018331037|Kaifa Tabassum|2018331046|Zhalok Rahman| Resource Sharing
+3|Team  we_apologise|2018331086|Kongka Rani Mozumder|2018331068|Moksedur Rahman Sohan| Student Forum
+4|Project lover |2018331073|Riddhiman Swanan Debnath|2017331104|Imtiaz Kabir Iftu| Hall Management System
+5|Team twain|2018331113|Muhit Mahmud|2018331047|Nazmun Nahar Tui| Appointment Scheduler
+6|DeenDev|2018331121|Fahim Ahmed|2018331019|Naimul Islam| Islamic App - Android
+7|The Binary Star|2018331003|Shahrab Khan Sami|2018331118|Golam Mostofa Naeem| Islamic App - Web
+8|Sneaky Stars|2018331072|Tahsina Bintay Azam|2018331022|Nowshin Alam Owishi| Library Management System
+9|Code Clan|2018331088|MD. Rabiul Islam||| Idea Sharing Zone: Sharing Idea and Constructing Group for Projects
+10|Team Rafi and Dipto |2018331034|Pritam Sarker Dipto|2018331035|Abrar Zahin Rafi| E-voting
+11|Team_Bona_Fide|2018331055|Md. Abdul Kadir|2018331059|Sabiha Jahan Mim| Medi Discover: Finding nearest doctor and pharmacy, alarming about taking medicine
+12|The Apostrophe|2018331030|Shrestha Datta|2018331062|MD. SUMON MIAH|~To-Let~
+13|Epic_Dreamer|2018331126|Tithi Saha|2018331024|Md. Fuadul Islam| Exam System Extension*
+14|Sustaina|2018331095|Mirza Nihal Baig|2018331093|Nahian Beente Firuj| Fire Safety App and Gathering Environmental Data
+16|Team ARCANE|2018331043|Mahnur Rahman Mahin|2018331117|Ahmed Iftekher Rais| Classroom Management *
 17|Team Marshmallow|2018331081|MD.ATAULLHA|2018331045|Soumik Paul Jisun
 18|Project CSE-250|2018331057|Jakir Hasan||
 19|Revengers|2018331119|Alfeh Sani|2018331077|Omar sultan
