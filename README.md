@@ -27,8 +27,8 @@ Course Info
 Project Team Information
 ========================
 
-Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title
-------:|:--------:|:------:|:----|:------:|:----|:-------------
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
+--:|:----:|:------:|:----|:------:|:----|:---------------------|
 1|Team_Solo|2017331027|Al-Masum||| Smart Bachelor
 2|Extractor.zip|2018331037|Kaifa Tabassum|2018331046|Zhalok Rahman| Resource Sharing
 3|Team  we_apologise|2018331086|Kongka Rani Mozumder|2018331068|Moksedur Rahman Sohan| Student Forum
