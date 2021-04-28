@@ -1,3 +1,24 @@
+Schedule for April 29, 2021
+===========================
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+31|return pass_mark|2018331125|Kabir ahmed|2018331033|Mehedi hasan rabby|11:00 AM|
+32|Team_noob|2018331010|Tufail Ahmed|2018331100|Shanur Milon|11:20 AM|
+33|A_Team_Has_No_Name|2018331071|Nishat Rahman|2018331087|Nafis Fuad Abir|11:40 AM|
+34|Team Strategy|2018331065|Debapriya dhar|2018331097|Aisha Hayder Chowdhury|12:00 PM|
+35|Goodwill|2017331094|Mahmodul Hasan Sakib|||12:20 PM|
+36|Developer_Duo|2018331029|Ishrat Jahan|2018331011|Amir Hamza|12:40 PM|
+37|Team Mita|2018331078|Md Hasibul Islam Shanto|2018331084|S M Al Hasib|02:00 PM|
+38|team πrates|2018331083|Mushfiqur Rahman|2018331123|Mahbubul Hasan|02:20 PM|
+39|Ninja Developers |2017331075|Md. Mustaqur Rahman|2017331088|Roman Raihan|02:40 PM|
+40|Explorer|2018331098|Mahdi Murshed Patwari |||03:00 PM|
+41|Keyboard Warrior|2018331084|MD. Toufiqul Islam Fahim|2018331120|Abdul Wadud Shakib|03:20 PM|
+42|OneZero Noobs|2018331040|Antar Roy|2018331012|Faridul Reza Sagor|03:40 PM|
+43|SaSo et al|2016331020|Sadekujjaman|2016331004|MD. Shahidul Islam|04:10 PM|
+44|OldAcquaintances|2017331010|M. Ebrahim Sazin|2017331013|Navid Ishriyaq Amin|04:40 PM|
+
+
 Schedule for April 28, 2021
 ===========================
 
