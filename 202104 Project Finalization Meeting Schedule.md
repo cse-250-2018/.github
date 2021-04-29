@@ -1,3 +1,20 @@
+Schedule for April 30, 2021
+===========================
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+45|TEAM 00|2018331070|NURUN ISLAM NILOY|||11:00 AM|
+46|Yellow Flash|2018331036|Nasrullah Sami|2018331064|Mahir Mosleh|11:20 AM|
+47|CB|2017331084|jamil mahmood|2017331048|Ezaz Ahmed Miraz|11:40 AM|
+48|Team JOJO|2018331060|Md. Tangid Khan|2018331124|Fazla Rabby Rady|12:00 PM|
+49|Team_bibliophile|2018331018|Tanusree Saha|2018331105|Mala Jhora|02:30 PM|
+50|Falcons|2017331076|Pritam Das|2017331068|Zakir Hossain|02:50 PM|
+51|Headless Monstar|2018331110|Abu Anash Siddiki Badhon|2018331114|Tanvir Mahmud|03:10 PM|
+52|Tehetetlen|2018331106|Fatima Nuzhat|2018331008|Samia Preity|03:30 PM|
+53|Team আইলসা|2018331090|Ahad Mahjabin Jannat|2018331122|Fahmida Akter|03:50 PM|
+54|Betelgeuse|2018331061|Sujoy Kumar Ray|2018331041|Aahsanul Azim|04:20 PM|
+55|Ganymede|2018331069|Oishik Biswas|2017331035|MD.AZHARUL KARIM CHOWDHURY ANIK|04:40 PM|
+
 Schedule for April 29, 2021
 ===========================
 
