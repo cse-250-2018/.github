@@ -1,3 +1,25 @@
+Schedule for May 01, 2021
+===========================
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+56|Akash|2017331058|Md. Kaef Khan|2017331067|Shah Ashfaqur Rahman|11:00 AM|
+57|ArektaTeam|2018331002|Mehedi Hasan Jibon|2018331054|Dewan Mahinur Alam|11:20 AM|
+58|Eccentric buddy|2017331087|Aniruddha Halder|2017331082|Loknath Banik Sagor|11:40 AM|
+59|SlowMotion|2018331104|Md. Rakib Talukder|2018331080|Md. Merajul Islam Shawn|12:00 PM|
+60|loser|2018331020|Anwar Hossan|2018331089|MD. Ali Al Reza|12:20 PM|
+61|Team Incompetent|2018331092|Rafiqul Ala Mahid|2018331112|Abdullah Khan|12:40 PM|
+62|TEAM GRAVITON|2016331025|MD. AZIZUl HAKIM|2016331081|kazi nahian hossain|02:00 PM|
+63|Team Al-Gurabaa|2017331054|Iqramul Islam|2017331016|Lazu Islam|02:20 PM|
+64|Amoxicillin|2017331080|Nasif Anwar Khan Pallab|||02:40 PM|
+65|Detonators|2018331074|Md. Abu Sayem|2018331075|Al Fahad Mollah|03:00 PM|
+66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan|03:30 PM|
+67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair|04:00 PM|
+
+
+
+
+
 Schedule for April 30, 2021
 ===========================
 
