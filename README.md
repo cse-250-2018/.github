@@ -95,8 +95,8 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 65|Detonators|2018331074|Md. Abu Sayem|2018331075|Al Fahad Mollah
 66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan
 67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair
-68|
-69|
+68|Team Alpha_Beta|2018331006|Asif Ahmed|2018331067|Rattin Sadman
+69|Compiler|2018331116|Md. Sirazul Islam Sobuj||
 70|
 
 Supervisors

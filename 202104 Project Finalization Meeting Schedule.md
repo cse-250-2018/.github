@@ -1,3 +1,29 @@
+Schedule for May 04, 2021
+===========================
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+68|Team Alpha_Beta|2018331006|Asif Ahmed|2018331067|Rattin Sadman|11:00 AM|
+69|Compiler|2018331116|Md. Sirazul Islam Sobuj|||11:30 AM|
+
+The following team would attend only for project Finalization:
+
+Team # | Team Name| Reg. # | Name| Reg. # | Name| Time |
+------:|:--------:|:------:|:----|:------:|:----|:----:|
+20|Storm£Breaker|2018331052|Hrithik Majumdar Shibu|2018331056|Ashraful Islam|12:00 PM|
+23|mt19937|2018331085|Kawchar Husain|2018331053|Shaikat Hosen|12:15 PM|
+25|Poltergeist|2018331103|Md. Sakil Sazzad Joy|2018331107|Rony Hajong|12:30 PM|
+38|team πrates|2018331083|Mushfiqur Rahman|2018331123|Mahbubul Hasan|12:45 PM|
+39|Ninja Developers |2017331075|Md. Mustaqur Rahman|2017331088|Roman Raihan|01:00 PM|
+44|OldAcquaintances|2017331010|M. Ebrahim Sazin|2017331013|Navid Ishriyaq Amin|01:15 PM|
+48|Team JOJO|2018331060|Md. Tangid Khan|2018331124|Fazla Rabby Rady|01:30 PM|
+50|Falcons|2017331076|Pritam Das|2017331068|Zakir Hossain|02:30 PM|
+55|Ganymede|2018331069|Oishik Biswas|2017331035|MD.AZHARUL KARIM CHOWDHURY ANIK|2:45 PM|
+66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan|03:00 PM|
+67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair|03:15 PM|
+
+If any group has any talk, please, wait at **03:30 PM**. Thanks
+
 Schedule for May 01, 2021
 ===========================
 
