@@ -19,6 +19,12 @@ SL| % of Work Completion| Date|Submission Platform
 7| 70% | ~~April 15, 2021~~ | GitHub Repository
 8| 100%| ~~May 23, 2021~~ | GitHub Repository
 
+Expected Timeline
+-----------------
+
+![Gantt Chart](gantt_chart.jpg)
+
+
 Course Info
 -----------
 - [Google Classroom](https://classroom.google.com/u/3/c/MjU2NTY4OTEzMTI3)
