@@ -96,7 +96,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 60|loser|2018331020|Anwar Hossan|2018331089|MD. Ali Al Reza| Data Analysis
 61|Team Incompetent|2018331092|Rafiqul Ala Mahid|2018331112|Abdullah Khan| Meal Leftover Management
 62|TEAM GRAVITON|2016331025|MD. AZIZUl HAKIM|2016331081|kazi nahian hossain| Metro Rail Sheba
-~~63|Team Al-Gurabaa|2017331054|Iqramul Islam|2017331016|Lazu Islam| ??~~
+~~63~~|~~Team Al-Gurabaa~~|~~2017331054~~|~~Iqramul Islam~~|~~2017331016~~|~~Lazu Islam~~| ~~??~~
 64|Amoxicillin|2017331080|Nasif Anwar Khan Pallab||| Medi-Transaction
 65|Detonators|2018331074|Md. Abu Sayem|2018331075|Al Fahad Mollah| Ask Seniors
 66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan| Course Designer
