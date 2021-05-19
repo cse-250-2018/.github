@@ -8,8 +8,8 @@ SL|Task|Deadline|Submission Platform
 3|Project Finalization| ~~February 03, 2021~~ <br> <strong><font color="red">April 27, 2021</font></strong>| Online
 4|Team & Repo Creation in GitHub| ~~February 04, 2021~~ <br> <strong><font color="red">February 09, 2021</font></strong>| GitHub & Online
 5|Submission of Project Plan (what would be submitted on milestones) & Timeline| ~~February 12, 2021~~ <br> <strong><font color="red">May 10, 2021</font></strong>| GitHub Repository
-9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| Google Classroom
-10|Final Presentation| ~~May 24 & 25, 2021~~| Online
+9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| ~~Google Classroom~~ GitHub Repository
+10|Final Presentation| ~~May 24 & 25, 2021~~ | Online
 
 Milestones
 ----------
@@ -56,7 +56,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 20|Storm£Breaker|2018331052|Hrithik Majumdar Shibu|2018331056|Ashraful Islam| Dictionary Traversal - Web 1
 21|Team_Cofused|2018331042|MD. Tariful Islam|2018331028|Kazi Md Arif Shahriar| Dictionary Traversal - Android
 22|Seekers |2018331004|Ameya Debnath|2018331050|Raisa Fairooz| Tuition Media
-23|mt19937|2018331085|Kawchar Husain|2018331053|Shaikat Hosen|
+23|mt19937|2018331085|Kawchar Husain|2018331053|Shaikat Hosen| Benchmarking through Quiz App
 24|VisionaryProvider|2018331082|Md Adith Mollah||| Recursion Visualizer
 25|Poltergeist|2018331103|Md. Sakil Sazzad Joy|2018331107|Rony Hajong| Hall Management System - Web
 26|Warriors|2017331090|MD.SHAKIL|2017331100|Ashikur Rahman| Calorie Analysis
@@ -102,7 +102,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 66|Transformer|2018331025|MD.Takrimul Hasan|2018331109|Ahmadul Hasan| Course Designer
 67|flip-flop|2016331013|Nasif Mahmud Nipom|2016331095|Ahmed Jubair| Exam Scheduler
 68|Team Alpha_Beta|2018331006|Asif Ahmed|2018331067|Rattin Sadman| Tournament Management
-69|Compiler|2018331116|Md. Sirazul Islam Sobuj||| Market Place
+69|Compiler|2018331116|Md. Sirazul Islam Sobuj||| Market Price
 
 Supervisors
 -----------
