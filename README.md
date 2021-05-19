@@ -8,7 +8,7 @@ SL|Task|Deadline|Submission Platform
 3|Project Finalization| ~~February 03, 2021~~ <br> <strong><font color="red">April 27, 2021</font></strong>| Online
 4|Team & Repo Creation in GitHub| ~~February 04, 2021~~ <br> <strong><font color="red">February 09, 2021</font></strong>| GitHub & Online
 5|Submission of Project Plan (what would be submitted on milestones) & Timeline| ~~February 12, 2021~~ <br> <strong><font color="red">May 10, 2021</font></strong>| GitHub Repository
-9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| ~~Google Classroom~~ GitHub Repository
+9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| ~~Google Classroom~~ <br> GitHub Repository
 10|Final Presentation| ~~May 24 & 25, 2021~~ | Online
 
 Milestones
