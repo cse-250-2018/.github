@@ -24,6 +24,13 @@ Expected Timeline
 
 ![Gantt Chart](gantt_chart.jpg)
 
+Report on Learning Pre-requisities
+----------------------------------
+SL | Learning task | Description | Status | Comment |
+--:|:--------------|:------------|:------:|---------|
+1  | Web Basics    | Basics of HTML, CSS, Javascript, PHP| ![ ](https://img.shields.io/badge/HTML-Learned-green) <br> ![ ](https://img.shields.io/badge/CSS-Learned-green) <br> ![ ](https://img.shields.io/badge/Javascript-Learned-green) <br> ![ ](https://img.shields.io/badge/PHP-Learned-green) | Both |
+2  |Database | MySQL| ![ ](https://img.shields.io/badge/MySQL-Learned-green)
+
 Course Info
 -----------
 - [Google Classroom](https://classroom.google.com/u/3/c/MjU2NTY4OTEzMTI3)
