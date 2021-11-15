@@ -57,7 +57,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 21|Team_Cofused|2018331042|MD. Tariful Islam|2018331028|Kazi Md Arif Shahriar| Dictionary Traversal - Android
 22|Seekers |2018331004|Ameya Debnath|2018331050|Raisa Fairooz| Tuition Media
 23|mt19937|2018331085|Kawchar Husain|2018331053|Shaikat Hosen| Benchmarking through Quiz App
-24|VisionaryProvider|2018331082|Md Adith Mollah||| Recursion Visualizer
+24|VisionaryProvider|2018331082|Md Adith Mollah||| Subtitle Hack
 25|Poltergeist|2018331103|Md. Sakil Sazzad Joy|2018331107|Rony Hajong| Hall Management System - Web
 26|Warriors|2017331090|MD.SHAKIL|2017331100|Ashikur Rahman| Calorie Analysis
 27|The Warriors|2018331044|Siam Jahan|2018331048|Suraiya Akter Eva| E-commerce Site
