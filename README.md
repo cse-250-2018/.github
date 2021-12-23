@@ -9,15 +9,15 @@ SL|Task|Deadline|Submission Platform
 4|Team & Repo Creation in GitHub| ~~February 04, 2021~~ <br> <strong><font color="red">February 09, 2021</font></strong>| GitHub & Online
 5|Submission of Project Plan (what would be submitted on milestones) & Timeline| ~~February 12, 2021~~ <br> <strong><font color="red">May 10, 2021</font></strong>| GitHub Repository
 9|Report on Learning Pre-requisities | ~~February 15, 2021~~ <br> <strong><font color="red">May 20, 2021</font></strong>| ~~Google Classroom~~ <br> GitHub Repository
-10|Final Presentation| ~~May 24 & 25, 2021~~ | Online
+10|Final Presentation| ~~May 24 & 25, 2021~~ January 7 & 8, 2022| Online
 
 Milestones
 ----------
 SL| % of Work Completion| Date|Submission Platform
 -:|:-------------------:|:---:|:-----------------:
-6| 40% | ~~March 25, 2021~~ | GitHub Repository
-7| 70% | ~~April 15, 2021~~ | GitHub Repository
-8| 100%| ~~May 23, 2021~~ | GitHub Repository
+6| 40% | ~~March 25, 2021~~ November 31, 2021| GitHub Repository
+7| 70% | ~~April 15, 2021~~ December 21, 2021| GitHub Repository
+8| 100%| ~~May 23, 2021~~ December 29, 2021| GitHub Repository
 
 Expected Timeline
 -----------------
