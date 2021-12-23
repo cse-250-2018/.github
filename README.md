@@ -85,7 +85,7 @@ Team # | Team Name| Reg. # | Name| Reg. # | Name| Project Title|
 49|Team_bibliophile|2018331018|Tanusree Saha|2018331105|Mala Jhora| Cafe Management
 50|Falcons|2017331076|Pritam Das|2017331068|Zakir Hossain| Letter Automation
 51|Headless Monstar|2018331110|Abu Anash Siddiki Badhon|2018331114|Tanvir Mahmud| Recipe Hunter
-52|Tehetetlen|2018331106|Fatima Nuzhat|2018331008|Samia Preity| Audible Textbook
+52|Tehetetlen|2018331106|Fatima Nuzhat|2018331008|Samia Preity| Funbook
 53|Team আইলসা|2018331090|Ahad Mahjabin Jannat|2018331122|Fahmida Akter| Couple Search
 54|Betelgeuse|2018331061|Sujoy Kumar Ray|2018331041|Aahsanul Azim| Notice Board
 55|Ganymede|2018331069|Oishik Biswas|2017331035|MD.AZHARUL KARIM CHOWDHURY ANIK| Exam System - Android
