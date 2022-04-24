@@ -108,7 +108,7 @@ Supervisors
 -----------
 1. **Enamul Hassan**         
 Assistant Professor     
-Department of Computer Science and Engineering
+Department of Computer Science and Engineering            
 Shahjalal University of Science and Technology       
 [Faculty Profile](https://www.sust.edu/d/cse/faculty-profile-detail/590) and [GitHub Profile](https://github.com/enamcse)
 
